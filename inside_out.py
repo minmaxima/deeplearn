@@ -1,3 +1,7 @@
+#This script defines two classes: DataSource and SaasProgram. DataSource represents a single data source with attributes like name, type, and description. 
+#You can use this script by creating an instance of SaasProgram, adding data sources using the add_data_source method, and then listing the data sources 
+#using the list_data_sources method.
+
 import os
 
 class DataSource:
